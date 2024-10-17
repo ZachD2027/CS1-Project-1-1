@@ -29,3 +29,9 @@ p,li,a {
     font-style: normal;
     background-color: rgb(255, 0, 76)
 }
+
+img {
+    border-width: 10px;
+    border-color: aliceblue;
+    border-style: double;
+}
